@@ -25,7 +25,7 @@ Whether you want to build deep in the wilderness, explore distant lands, or disc
 
 You can find Traveler’s Dream on Modrinth:
 
-[Will put when its on modrinth]
+[Link](https://modrinth.com/project/ix7lzizb)
 
 ## License
 
