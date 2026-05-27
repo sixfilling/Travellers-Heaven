@@ -1,14 +1,14 @@
-# Traveler's Dream
+# Traveler's Heaven
 
 A handcrafted vanilla+ adventure modpack focused on exploration, immersion, performance, and quality of life.
 
 ## About
 
-Traveler’s Dream transforms Minecraft into a massive living world filled with breathtaking terrain, towering mountains, endless forests, beautiful rivers, upgraded villages, dangerous dungeons, hidden structures, and rewarding exploration.
+Traveler’s Heaven transforms Minecraft into a massive living world filled with breathtaking terrain, towering mountains, endless forests, beautiful rivers, upgraded villages, dangerous dungeons, hidden structures, and rewarding exploration.
 
 The modpack enhances immersion with atmospheric visuals, smoother gameplay, improved exploration tools, and carefully selected quality-of-life features while preserving the core vanilla Minecraft experience.
 
-Whether you want to build deep in the wilderness, explore distant lands, or discover hidden structures across thousands of blocks, Traveler’s Dream is designed to make exploration feel magical again.
+Whether you want to build deep in the wilderness, explore distant lands, or discover hidden structures across thousands of blocks, Traveler’s Heaven is designed to make exploration feel magical again.
 
 ## Features
 
