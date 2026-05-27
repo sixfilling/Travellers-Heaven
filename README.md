@@ -23,7 +23,7 @@ Whether you want to build deep in the wilderness, explore distant lands, or disc
 
 ## Download
 
-You can find Traveler’s Dream on Modrinth:
+You can find Traveler’s Heaven on Modrinth:
 
 [Link](https://modrinth.com/project/ix7lzizb)
 
